@@ -1,3 +1,4 @@
+layout_spectrum: 0.9728290357161313
 typography_spectrum: 0.1491774742025882
 color:
   brandStrength: 0.8013452875893563
@@ -10,6 +11,4 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-layout_spectrum: 0.9728290357161313
 name: Dewdney Animal Hospital
-description: Only a test
